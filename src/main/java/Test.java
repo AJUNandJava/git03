@@ -10,6 +10,7 @@ public class Test {
          System.out.println("hello c1操作");
          System.out.println("hello c1操作");
          System.out.println("hello c1操作");
+         System.out.println("hello c1操作");
 
     }
 }
